@@ -2,7 +2,7 @@
 
 ## 📌 Descrição do Projeto
 
-Este projeto consiste em uma aplicação simples de **To-Do List**, 
+Este projeto consiste em uma aplicação simples de **To-Do List** parão para uma vaga de desenvolvedor jr, 
 onde o usuário pode criar, listar, atualizar e deletar uma lista. 
 O objetivo do desafio é desenvolver a aplicação utilizando boas práticas de programação, 
 manipulação de estados e interface intuitiva através do Spring Boot.
